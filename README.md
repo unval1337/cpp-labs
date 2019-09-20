@@ -1,14 +1,10 @@
 # My cool c++ labs
 
 ### For building first lab
-#### First:
-cd lab0b
 
-#### Second:
-cmake CMakeLists.txt
-
-#### Third:
-make
+1. cd lab0b
+2. cmake CMakeLists.txt
+3. make
 
 ### For using
-./lab0b <inputfile> <outputfile>
+./lab0b \<inputfile\> \<outputfile\>
